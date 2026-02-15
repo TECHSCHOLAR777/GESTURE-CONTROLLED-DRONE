@@ -1,0 +1,10 @@
+denv/
+venv/
+__pycache__/
+*.pyc
+
+gesture_data.csv
+gesture_model.pt
+
+vosk-model-*
+*.zip
